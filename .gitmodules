@@ -7,3 +7,6 @@
 [submodule "xai_components/xai_rpa"]
 	path = xai_components/xai_rpa
 	url = https://github.com/yuenherny/xai-rpa
+[submodule "xai_components/xai_sample"]
+	path = xai_components/xai_sample
+	url = https://github.com/MFA-X-AI/xai-sample-library
